@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(pexels-bri-schneiter-346529.jpg);
+    background-image: url(background.jpg);
     background-size: cover;
 }
 .container{
